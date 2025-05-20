@@ -17,5 +17,9 @@ run the following commands
 
 used aggrid, moment, numeral packages
 
+# Real time gif
+
+![](investorinfo.gif)
+
 
 
